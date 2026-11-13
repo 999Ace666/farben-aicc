@@ -1,0 +1,13 @@
+{
+  "name": "farben-aicc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Farben AICC – Intelligent Contact Center",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5"
+  }
+}
